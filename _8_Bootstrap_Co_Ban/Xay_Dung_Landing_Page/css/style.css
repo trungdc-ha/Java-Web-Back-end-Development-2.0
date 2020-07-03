@@ -1,0 +1,74 @@
+a[class*='navbar-brand'] {
+    border-right: 2px solid black;
+    height: 26px;
+}
+
+a[class*='navbar-brand'] img {
+    position: relative;
+    bottom: 9px;
+}
+nav {
+    height: 55px;
+}
+
+#navbarCollapse>div a {
+    color: black;
+}
+
+.small-text-nav {
+    font-size: 14px;
+    position: relative;
+    top: 5px;
+}
+
+#sf:link {
+    font-size: 19px;
+    color: black;
+    font-weight: bold;
+}
+
+#all-mc {
+    font-size: 15px;
+    position: relative;
+    top: 4px;
+    left: -5px;
+}
+
+#search-icon {
+    position: relative;
+    top: 5px;
+}
+
+#cart-icon {
+   left: 1px;
+}
+
+#login-icon {
+    position: relative;
+    top: -2px;
+}
+
+#util {
+    position: relative;
+    left: 210px
+}
+
+#util1 {
+    positon: relative;
+    left: 10px;
+}
+
+#util2 {
+    positon: relative;
+    left: 12px;
+}
+
+#util3 {
+    positon: relative;
+    left: 5px;
+}
+
+#util4 {
+    positon: relative;
+    left: -100px;
+}

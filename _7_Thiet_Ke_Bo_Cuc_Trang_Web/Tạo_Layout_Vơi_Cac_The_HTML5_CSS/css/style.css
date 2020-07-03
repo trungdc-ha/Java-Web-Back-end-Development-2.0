@@ -1,0 +1,151 @@
+body {
+    background-color: beige;
+    font-family: "Times New Roman" ,sans-serif verdana;
+    font-size: 90%;
+    margin: 0;
+    text-align: center;
+}
+
+#main {
+    width: 75%;
+    height: 1000px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+#header {
+    width: 100%;
+    height: 222px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-bottom: none;
+}
+
+#logo {
+    width: 30%;
+    height: 180px;
+    background-color: red;
+    line-height: 150px;
+    float: left;
+    border-right: 1px solid black;
+}
+
+#banner {
+    width: 69.9%;
+    height: 180px;
+    line-height: 150px;
+    background-color: yellow;
+    float: left;
+}
+
+#head-link ul{
+    width: 100%;
+    height: 45px;
+    padding-left: 0px;
+}
+
+#head-link ul li{
+    display: inline;
+    width: 9.8%;
+    height: 40px;
+    border: 1px solid black;
+    background-color: green;
+    float: left;
+    line-height: 42px;
+}
+
+#content {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+#left {
+    width: 20%;
+    height: 800px;
+    background-color: blue;
+    float: left;
+    margin-top: 0px
+}
+
+.sub-left {
+    width: 99%;
+    height: 300px;
+    background-color: yellow;
+    border: 1px solid black;
+    line-height: 280px;
+}
+
+#middle {
+    width: 60%;
+    height: 800px;
+    background-color: beige;
+    float: left;
+}
+
+#top-middle {
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+}
+
+.sub-top-middle {
+    width: 50%;
+    height: 200px;
+    line-height: 180px;
+    border: 1px solid black;
+    float: left;
+    background-color: aquamarine;
+    margin-left: -2px;
+}
+
+#bottom-middle {
+    width: 100%;
+    height: 598px;
+    background-color: burlywood;
+    border: 1px solid black;
+    float: left;
+    margin-left: -1px;
+    border-right: none;
+}
+
+.sub-bottom-middle {
+    width: 33%;
+    height: 198px;
+    line-height: 190px;
+    border-bottom: none;
+    border: 1px solid black;
+    border-right: none;
+    float: left;
+}
+
+#right {
+    width: 19.8%;
+    height: 800px;
+    background-color: yellow;
+    float: left;
+    border: 1px solid black;
+}
+
+.sub-right {
+    width: 100%;
+    height: 259px;
+    border: 1px solid black;
+    line-height: 190px;
+}
+
+.sub-right:first-child {
+    border-top: none;
+}
+
+#footer {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+    float: left;
+    border: 1px solid black;
+    line-height: 15px;
+}
+

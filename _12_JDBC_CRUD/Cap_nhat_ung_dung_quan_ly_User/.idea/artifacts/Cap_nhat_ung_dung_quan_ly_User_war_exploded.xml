@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Cap_nhat_ung_dung_quan_ly_User:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cap_nhat_ung_dung_quan_ly_User_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Cap_nhat_ung_dung_quan_ly_User/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Cap_nhat_ung_dung_quan_ly_User" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

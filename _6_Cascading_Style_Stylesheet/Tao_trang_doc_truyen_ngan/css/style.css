@@ -1,0 +1,38 @@
+body {
+    height: 800px;
+    margin: 20px auto;
+    font-family: Verdana;
+}
+
+h1 {
+    margin-left: 250px;
+}
+
+img, ul {
+    margin-left: 300px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+#page {
+    width: 60%;
+    height: 1000px;
+    margin: 0px auto;
+}
+#content {
+    width: 600px;
+    height: 500px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+ul li a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    font-size: 15px;
+}

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Bai_Tap_Tao_MySQL_Store_Procedure_Tu_JDBC_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Bai_Tap_Tao_MySQL_Store_Procedure_Tu_JDBC_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+
+Xsquid:S1161":Add the "@Override" annotation above this method signature( Üó8áâü¼.
+Lsquid:S1989&")Add a "try/catch" block for "updateUser".(©ÛÖíùÿÿÿÿ8áâü¼.
+{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¡âÒşÿÿÿÿ8áâü¼.
+\"squid:SwitchLastCaseIsDefaultCheck!""Add a default case to this switch.(ë´åİşÿÿÿÿ8æÜú¼.
+Gsquid:S1989#")Add a "try/catch" block for "insertUser".(Ì¼¬Ø8áâü¼.
+Hsquid:S19898"*Add a "try/catch" block for "showNewForm".(ßçÂ›8áâü¼.
+«%squid:RedundantThrowsDeclarationCheckJ"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(íú”æûÿÿÿÿ8†ÓõÜ.
+Gsquid:S1989>")Add a "try/catch" block for "deleteUser".(…»“‡8áâü¼.
+Lsquid:S1989&")Add a "try/catch" block for "updateUser".(©ÛÖíùÿÿÿÿ8áâü¼.
+Gsquid:S1989#")Add a "try/catch" block for "insertUser".(Ì¼¬Ø8áâü¼.
+;squid:S1989*"Add a "try/catch" block.(½óæ„úÿÿÿÿ8áâü¼.
+Hsquid:S19898"*Add a "try/catch" block for "showNewForm".(ßçÂ›8áâü¼.
+¥%squid:RedundantThrowsDeclarationCheckX"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(šáÏ@8†ÓõÜ.
+Gsquid:S1989>")Add a "try/catch" block for "deleteUser".(…»“‡8áâü¼.
+;squid:S1989E"Add a "try/catch" block.(½óæ„úÿÿÿÿ8áâü¼.
+]squid:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8áâü¼.
+Isquid:S1989;"+Add a "try/catch" block for "showEditForm".(ÂõÓÁ8áâü¼.
+Jsquid:S1989A"'Add a "try/catch" block for "listUser".(ÁÄ›êşÿÿÿÿ8áâü¼.
+Jsquid:S1989A"'Add a "try/catch" block for "listUser".(ÁÄ›êşÿÿÿÿ8áâü¼.
+nsquid:S1301!"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8æÜú¼.
+Xsquid:S1161.":Add the "@Override" annotation above this method signature(÷¤‹ú8áâü¼.
+Isquid:S1989;"+Add a "try/catch" block for "showEditForm".(ÂõÓÁ8áâü¼.
