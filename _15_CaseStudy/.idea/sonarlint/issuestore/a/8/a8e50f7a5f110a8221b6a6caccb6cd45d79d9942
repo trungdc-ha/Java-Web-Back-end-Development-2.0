@@ -1,0 +1,32 @@
+
+b
+squid:S128?"LEnd this switch case with an unconditional break, return or throw statement.(ŒíŠ
+?squid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"WMake noteService a static final constant or non-public and provide accessors if needed.(ï»¾…8Öƒà.
+Dsquid:S1199"-Extract this nested code block into a method.(áÙÇ
+osquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(£©ĞÆ
+?squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1199?"-Extract this nested code block into a method.(ŒíŠ
+Dsquid:S1199P"-Extract this nested code block into a method.(áÙÇ
+b
+squid:S1288"LEnd this switch case with an unconditional break, return or throw statement.(ÛÊªş
+Isquid:S1199\"-Extract this nested code block into a method.(ÌğŞŸüÿÿÿÿ
+?squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Isquid:S1199X"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ
+Dsquid:S1199c"-Extract this nested code block into a method.(ÛÊªş
+g
+squid:S128\"LEnd this switch case with an unconditional break, return or throw statement.(ÌğŞŸüÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(‰Æã­
+Isquid:S1199k"-Extract this nested code block into a method.(œ¨Œğúÿÿÿÿ
+Dsquid:S1199%"-Extract this nested code block into a method.(ı£ƒ˜
+Vsquid:S1161J":Add the "@Override" annotation above this method signature(ö‰›ÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"[Make noteTypeService a static final constant or non-public and provide accessors if needed.(£©ĞÆ8×õ‚à.
+Dsquid:S1199T"-Extract this nested code block into a method.(ı£ƒ˜
+`squid:S2147*"DCombine this catch with the one at line 40, which has the same body.(ĞĞ¹óúÿÿÿÿ
+Dsquid:S1199g"-Extract this nested code block into a method.(ŒíŠ
+Dsquid:S11998"-Extract this nested code block into a method.(ÛÊªş
+osquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ï»¾…
+Isquid:S1199/"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ

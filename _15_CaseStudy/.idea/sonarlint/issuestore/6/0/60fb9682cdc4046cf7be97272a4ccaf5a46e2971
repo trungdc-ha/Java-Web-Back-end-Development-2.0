@@ -1,0 +1,43 @@
+
+]squid:S2147Ç"ECombine this catch with the one at line 197, which has the same body.(ï­£Ä
+]squid:S2147®"ECombine this catch with the one at line 172, which has the same body.(ï­£Ä
+@squid:S1148û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S2147Œ"ECombine this catch with the one at line 138, which has the same body.(ï­£Ä
+?squid:S1148y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S2147ú"ECombine this catch with the one at line 248, which has the same body.(ï­£Ä
+@squid:S1148ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S2147 "DCombine this catch with the one at line 30, which has the same body.(ï­£Ä
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+dsquid:S1192="HDefine a constant instead of duplicating this literal "message" 3 times.(øó©ıÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S2147."DCombine this catch with the one at line 44, which has the same body.(ï­£Ä
+@squid:S1148È"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S2147X"DCombine this catch with the one at line 86, which has the same body.(ï­£Ä
+Wsquid:S21307"9Use "Integer.parseInt" for this string-to-int conversion.(„Ú²8ÒØ§ä.
+]squid:S2130Î"9Use "Integer.parseInt" for this string-to-int conversion.(Û¿Ğ×ıÿÿÿÿ8ƒ Õæ.
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:S2130Ğ"9Use "Integer.parseInt" for this string-to-int conversion.(„Ú²8ã‡×æ.
+Vsquid:S1854—">Remove this useless assignment to local variable "dispatcher".(µ²Ä²
+?squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+\squid:S2147x"ECombine this catch with the one at line 118, which has the same body.(ï­£Ä
+]squid:S2147æ"ECombine this catch with the one at line 228, which has the same body.(ï­£Ä
+[squid:S2147B"DCombine this catch with the one at line 64, which has the same body.(ï­£Ä
+?squid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148w"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S1192"FDefine a constant instead of duplicating this literal "notes" 4 times.(¯åÒ½øÿÿÿÿ8°Ğ×Ş.
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+esquid:S1192O"NDefine a constant instead of duplicating this literal "error-404.jsp" 6 times.(µ²Ä²
+jsquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÓğÌ
+?squid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S11927"KDefine a constant instead of duplicating this literal "typeNoteId" 3 times.(„Ú²8ÚÚŞ.
+msquid:S1192)"JDefine a constant instead of duplicating this literal "noteTypes" 5 times.(šêøÿÿÿÿ8ºäÍŞ.
+Gsquid:S1481•"/Remove this unused "dispatcher" local variable.(º³Í
+@squid:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

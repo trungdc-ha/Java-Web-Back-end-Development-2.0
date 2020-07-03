@@ -1,0 +1,18 @@
+
+Vsquid:S11619":Add the "@Override" annotation above this method signature(ö‰›ÿÿÿÿÿ
+b
+squid:S128K"LEnd this switch case with an unconditional break, return or throw statement.(à÷ÖÜ
+Dsquid:S1199C"-Extract this nested code block into a method.(ı£ƒ˜
+`squid:S2147"DCombine this catch with the one at line 26, which has the same body.(âÃƒŠıÿÿÿÿ
+?squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Isquid:S1199)"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ
+Dsquid:S1199"-Extract this nested code block into a method.(áÙÇ
+?squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1199!"-Extract this nested code block into a method.(ı£ƒ˜
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‡¬êïøÿÿÿÿ
+Dsquid:S1199?"-Extract this nested code block into a method.(áÙÇ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(‰Æã­
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1199K"-Extract this nested code block into a method.(à÷ÖÜ
+Isquid:S1199G"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,50 @@
+
+?squid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148‰"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S2147ğ"ECombine this catch with the one at line 238, which has the same body.(É®£
+@squid:S1148”"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+esquid:S1192M"NDefine a constant instead of duplicating this literal "error-404.jsp" 5 times.(µ²Ä²
+?squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+osquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ö½Œøıÿÿÿÿ
+?squid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148å"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+]squid:S2147²"ECombine this catch with the one at line 176, which has the same body.(ï­£Ä
+>squid:S1075Å"&Remove this hard-coded path-delimiter.(·§æÿ
+?squid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Gsquid:S1481‹"/Remove this unused "dispatcher" local variable.(º³Í
+^squid:S3027’"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(ÈıÈõ
+[squid:S2147C"DCombine this catch with the one at line 65, which has the same body.(ï­£Ä
+@squid:S1148‚"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148×"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( •—
+\squid:S2147p"ECombine this catch with the one at line 110, which has the same body.(ï­£Ä
+Xsquid:S2130¹"9Use "Integer.parseInt" for this string-to-int conversion.(¯©ğÀ8çôïæ.
+?squid:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S1854">Remove this useless assignment to local variable "dispatcher".(µ²Ä²
+gsquid:S1192O"IDefine a constant instead of duplicating this literal "noteType" 4 times.(ÄòÙş8êÓ÷Ş.
+@squid:S1148İ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+]squid:S2147ä"ECombine this catch with the one at line 226, which has the same body.(ŸäÁ‚
+?squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Rsquid:S1141ƒ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+[squid:S21473"DCombine this catch with the one at line 49, which has the same body.(ï­£Ä
+]squid:S2147ƒ"ECombine this catch with the one at line 129, which has the same body.(ï­£Ä
+[squid:S2147V"DCombine this catch with the one at line 84, which has the same body.(ï­£Ä
+@squid:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Rsquid:S1141Ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?squid:S1148q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S2147("DCombine this catch with the one at line 38, which has the same body.(ï­£Ä
+@squid:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148o"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+W
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(ĞÒô8ı´äí.
+Ysquid:S1141È"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ı´äí.
+isquid:S2147Í"ECombine this catch with the one at line 203, which has the same body.(ä»ùÛûÿÿÿÿ8ı´äí.
+Gsquid:S1148Ì"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ı´äí.
+Gsquid:S1148Î"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ı´äí.
